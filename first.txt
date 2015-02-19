@@ -1,6 +1,7 @@
 oogla
 blaah blaah
 1.
+A new change
 This is my second file.
 ok 
 this is a new addition.
